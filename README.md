@@ -1,0 +1,2 @@
+# FreeRTOS
+这是一个有关于FreeRTOS内部机制的学习笔记，我将从各个方面深入解释FreeRTOS，让您深入学习到FreeRTOS底层是如何实现的
